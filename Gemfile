@@ -82,4 +82,4 @@ gem 'kaminari'
 
 gem 'enum_help'
 
-gem 'devise-i18n'
+gem 'devise-i18n', '1.12.1'
